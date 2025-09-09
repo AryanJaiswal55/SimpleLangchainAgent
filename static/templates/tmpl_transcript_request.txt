@@ -1,0 +1,9 @@
+Subject: Transcript Request
+
+Dear Exam Cell,
+
+I, {name} (Roll: {roll}), request an official transcript for {semester}.
+I have attached the required documents.
+
+Regards,
+{name}

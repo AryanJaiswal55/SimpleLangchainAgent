@@ -1,0 +1,9 @@
+Subject: Leave Request
+
+Dear Coordinator,
+
+I, {name} (Roll: {roll}), request leave from {from_date} to {to_date} due to {reason}.
+Please let me know if further details are needed.
+
+Thanks,
+{name}

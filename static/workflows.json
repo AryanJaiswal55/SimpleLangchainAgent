@@ -1,0 +1,16 @@
+[
+  {
+    "id":"wf_transcript",
+    "name":"Transcript Application",
+    "steps":["Fill Form-17","Attach ID copy","Pay ₹200","Submit at Exam Cell","Collect after 5 working days"],
+    "required_docs":["Form-17","ID copy","Payment receipt"],
+    "template_id":"tmpl_transcript_request"
+  },
+  {
+    "id":"wf_reval",
+    "name":"Exam Re-evaluation",
+    "steps":["Download Re-eval Form","Attach paper copy","Pay ₹300 per course","Submit to Department Office"],
+    "required_docs":["Re-eval Form","Course list","Payment receipt"],
+    "template_id":"tmpl_reval_request"
+  }
+]
